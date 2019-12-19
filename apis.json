@@ -1,0 +1,49 @@
+{
+    "name": "mitmproxy",
+    "description": "mitmproxy and associated projects. Tweets by @cortesi and @maximilianhils",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11752-mitmproxy.jpg",
+    "tags": [
+        "api tools",
+        "have api",
+        "proxy"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/mitmproxy\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "mitmproxy",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11752-mitmproxy.jpg",
+            "humanURL": "https:\/\/mitmproxy.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mitmproxy-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/mitmproxy"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/mitmproxy"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/mitmproxy"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/mitmproxy.org\/"
+        }
+    ]
+}
