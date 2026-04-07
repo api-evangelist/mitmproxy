@@ -1,5 +1,5 @@
 aid: mitmproxy
-name: mitmproxy
+name: Mitmproxy
 description: >-
   mitmproxy is a free and open source interactive HTTPS proxy that allows
   developers and security researchers to intercept, inspect, modify, and replay
@@ -24,7 +24,7 @@ modified: '2026-03-26'
 specificationVersion: '0.19'
 apis:
   - aid: mitmproxy:mitmproxy
-    name: mitmproxy
+    name: Mitmproxy
     description: >-
       mitmproxy is a free and open source interactive HTTPS proxy for
       intercepting, inspecting, modifying, and replaying HTTP and HTTPS traffic.
@@ -47,7 +47,7 @@ apis:
       - type: Installation
         url: https://docs.mitmproxy.org/stable/overview-installation/
   - aid: mitmproxy:mitmweb
-    name: mitmweb
+    name: Mitmweb
     description: >-
       mitmweb is the web-based interface for mitmproxy, providing a graphical
       user interface in the browser for intercepting and inspecting HTTP and
@@ -61,7 +61,7 @@ apis:
       - type: Documentation
         url: https://docs.mitmproxy.org/stable/overview-tools/#mitmweb
   - aid: mitmproxy:mitmdump
-    name: mitmdump
+    name: Mitmdump
     description: >-
       mitmdump is the command-line companion to mitmproxy, providing
       tcpdump-like functionality for HTTP and HTTPS traffic. It can be used for
