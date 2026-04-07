@@ -10,13 +10,13 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - HTTPS Proxy
-  - Traffic Interception
-  - HTTP Debugging
   - API Testing
-  - Traffic Analysis
-  - Security Testing
+  - HTTP Debugging
+  - HTTPS Proxy
   - Open Source
+  - Security Testing
+  - Traffic Analysis
+  - Traffic Interception
 url: >-
   https://raw.githubusercontent.com/api-evangelist/mitmproxy/refs/heads/main/apis.yml
 created: '2026-03-26'
@@ -32,11 +32,11 @@ apis:
       working with network traffic flows.
     humanURL: https://mitmproxy.org
     tags:
-      - HTTPS Proxy
-      - Traffic Interception
-      - HTTP Debugging
       - API Testing
+      - HTTP Debugging
+      - HTTPS Proxy
       - Traffic Analysis
+      - Traffic Interception
     properties:
       - type: Documentation
         url: https://docs.mitmproxy.org/stable/
@@ -54,9 +54,9 @@ apis:
       HTTPS traffic flows.
     humanURL: https://docs.mitmproxy.org/stable/overview-tools/#mitmweb
     tags:
-      - Web Interface
       - HTTPS Proxy
       - Traffic Inspection
+      - Web Interface
     properties:
       - type: Documentation
         url: https://docs.mitmproxy.org/stable/overview-tools/#mitmweb
@@ -69,8 +69,8 @@ apis:
     humanURL: https://docs.mitmproxy.org/stable/overview-tools/#mitmdump
     tags:
       - Command Line
-      - Traffic Dump
       - Scripting
+      - Traffic Dump
     properties:
       - type: Documentation
         url: https://docs.mitmproxy.org/stable/overview-tools/#mitmdump
