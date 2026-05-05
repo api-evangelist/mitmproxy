@@ -1,0 +1,13 @@
+{
+  "repo": "mitmproxy",
+  "feeds": [
+    {
+      "source": "https://mitmproxy.org/posts/",
+      "feed_url": "https://www.mitmproxy.org/posts/index.xml",
+      "saved": 10,
+      "title": "Posts on mitmproxy.org"
+    }
+  ],
+  "post_count": 10,
+  "fetched": "2026-05-03T23:32:02Z"
+}
