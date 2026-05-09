@@ -3,11 +3,11 @@
   "feeds": [
     {
       "source": "https://mitmproxy.org/posts/",
-      "feed_url": "https://www.mitmproxy.org/posts/index.xml",
-      "saved": 10,
-      "title": "Posts on mitmproxy.org"
+      "feed_url": "https://mitmproxy.org/posts/index.xml",
+      "title": "Posts on mitmproxy.org",
+      "saved": 0
     }
   ],
   "post_count": 10,
-  "fetched": "2026-05-03T23:32:02Z"
+  "fetched": "2026-05-09T20:17:51Z"
 }
