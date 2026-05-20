@@ -75,6 +75,8 @@ apis:
       - type: Documentation
         url: https://docs.mitmproxy.org/stable/overview-tools/#mitmdump
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/mitmproxy
   - type: Website
     url: https://mitmproxy.org
   - type: Documentation
