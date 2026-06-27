@@ -85,7 +85,7 @@ common:
     url: https://github.com/mitmproxy/mitmproxy
   - type: Blog
     url: https://mitmproxy.org/posts/
-  - type: Releases
+  - type: ReleaseNotes
     url: https://github.com/mitmproxy/mitmproxy/releases
   - type: Issues
     url: https://github.com/mitmproxy/mitmproxy/issues
