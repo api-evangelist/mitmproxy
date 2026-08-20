@@ -25,6 +25,14 @@ tags:
   - API Testing
   - HTTP Debugging
   - HTTPS Proxy
+  - Open-Source
+  - Security Testing
+  - Traffic Analysis
+  - Traffic Interception
+tags_raw:
+  - API Testing
+  - HTTP Debugging
+  - HTTPS Proxy
   - Open Source
   - Security Testing
   - Traffic Analysis
@@ -66,6 +74,10 @@ apis:
       HTTPS traffic flows.
     humanURL: https://docs.mitmproxy.org/stable/overview-tools/#mitmweb
     tags:
+      - HTTPS Proxy
+      - Traffic Inspection
+      - Web-Interface
+    tags_raw:
       - HTTPS Proxy
       - Traffic Inspection
       - Web Interface
