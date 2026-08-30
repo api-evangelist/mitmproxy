@@ -87,7 +87,7 @@ apis:
     tags:
       - HTTPS Proxy
       - Traffic Inspection
-      - Web-Interface
+      - Web Interface
     tags_raw:
       - HTTPS Proxy
       - Traffic Inspection
