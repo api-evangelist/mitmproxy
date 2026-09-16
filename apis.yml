@@ -34,7 +34,6 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/mitmproxy.png
 tags:
   - API Testing
-  - Developer Tools
   - HTTP Debugging
   - HTTPS Proxy
   - Open-Source
