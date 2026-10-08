@@ -116,6 +116,12 @@ apis:
       - type: Documentation
         url: https://docs.mitmproxy.org/stable/overview-tools/#mitmdump
 common:
+  - type: Plans
+    url: plans/mitmproxy-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/mitmproxy-rate-limits.yml
+  - type: FinOps
+    url: finops/mitmproxy-finops.yml
   - type: DomainSecurity
     url: security/mitmproxy-domain-security.yml
   - type: LinkedIn
