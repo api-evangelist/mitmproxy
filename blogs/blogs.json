@@ -2,11 +2,11 @@
   "repo": "mitmproxy",
   "feeds": [
     {
-      "source": "https://github.com/mitmproxy/mitmproxy",
-      "feed_url": "https://github.com/mitmproxy/mitmproxy",
+      "source": "https://mitmproxy.org/posts/",
+      "feed_url": "https://www.mitmproxy.org/posts/index.xml",
       "title": "",
       "saved": 0,
-      "method": "none"
+      "method": "discovered"
     },
     {
       "source": "https://mitmproxy.org/posts/index.xml",
@@ -14,8 +14,15 @@
       "title": "",
       "saved": 0,
       "method": "feed"
+    },
+    {
+      "source": "https://github.com/mitmproxy/mitmproxy",
+      "feed_url": "https://github.com/mitmproxy/mitmproxy",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
   "post_count": 25,
-  "fetched": "2026-10-03T12:30:02Z"
+  "fetched": "2026-10-10T13:15:00Z"
 }
