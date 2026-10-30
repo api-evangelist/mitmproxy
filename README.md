@@ -1,4 +1,4 @@
-# Mitmproxy (mitmproxy)
+# Mitmproxy
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,81 +66,103 @@
 
 mitmproxy is a free and open source interactive HTTPS proxy that allows developers and security researchers to intercept, inspect, modify, and replay HTTP and HTTPS traffic flows. It includes mitmproxy (interactive console), mitmweb (web-based interface), and mitmdump (command-line tool), providing powerful capabilities for debugging, testing, and analyzing API traffic and web applications.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/mitmproxy/refs/heads/main/apis.yml)
+**Areas:** API Testing · HTTP Debugging · HTTPS Proxy · Open Source · Security Testing · Traffic Analysis · Traffic Interception
 
-## Scope
+## Mitmproxy on APIs.io
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** Open Source
+Everything profiled for Mitmproxy is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/mitmproxy/](https://apis.io/providers/mitmproxy/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (3)
 
- - API Testing, HTTP Debugging, HTTPS Proxy, Open Source, Security Testing, Traffic Analysis, Traffic Interception
+- [Mitmproxy](https://apis.io/apis/mitmproxy/mitmproxy/) — mitmproxy is a free and open source interactive HTTPS proxy for intercepting, inspecting, modifying, and replaying HTTP and HTTPS traffic. It provides…
+- [Mitmweb](https://apis.io/apis/mitmproxy/mitmweb/) — mitmweb is the web-based interface for mitmproxy, providing a graphical user interface in the browser for intercepting and inspecting HTTP and HTTPS traffic…
+- [Mitmdump](https://apis.io/apis/mitmproxy/mitmdump/) — mitmdump is the command-line companion to mitmproxy, providing tcpdump-like functionality for HTTP and HTTPS traffic. It can be used for scripted traffic…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2026-03-26
-- **Modified:** 2026-04-28
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### Mitmproxy
-mitmproxy is a free and open source interactive HTTPS proxy for intercepting, inspecting, modifying, and replaying HTTP and HTTPS traffic. It provides console-based, web-based, and command-line interfaces for working with network traffic flows.
+Authentication, trust centre, and vulnerability disclosure.
 
-**Human URL:** [https://mitmproxy.org](https://mitmproxy.org)
+- [Mitmproxy Domain Security](https://apis.io/security/mitmproxy/mitmproxy-domain-security/)
 
-#### Tags:
+#### Plans and pricing (1)
 
- - API Testing, HTTP Debugging, HTTPS Proxy, Traffic Analysis, Traffic Interception
+Published plans, tiers and prices.
 
-#### Properties
+- [Mitmproxy Plans Pricing](https://apis.io/plans/mitmproxy/mitmproxy-plans-pricing/)
 
-- [Documentation](https://docs.mitmproxy.org/stable/)
-- [GettingStarted](https://docs.mitmproxy.org/stable/overview-getting-started/)
-- [GitHubOrganization](https://github.com/mitmproxy/mitmproxy)
-- [Installation](https://docs.mitmproxy.org/stable/overview-installation/)
+#### Rate limits (1)
 
-### Mitmweb
-mitmweb is the web-based interface for mitmproxy, providing a graphical user interface in the browser for intercepting and inspecting HTTP and HTTPS traffic flows.
+Published request limits.
 
-**Human URL:** [https://docs.mitmproxy.org/stable/overview-tools/#mitmweb](https://docs.mitmproxy.org/stable/overview-tools/#mitmweb)
+- [Mitmproxy Rate Limits](https://apis.io/rate-limits/mitmproxy/mitmproxy-rate-limits/)
 
-#### Tags:
+#### FinOps (1)
 
- - HTTPS Proxy, Traffic Inspection, Web Interface
+What the API costs to run, by operation.
 
-#### Properties
+- [Mitmproxy Finops](https://apis.io/finops/mitmproxy/mitmproxy-finops/)
 
-- [Documentation](https://docs.mitmproxy.org/stable/overview-tools/#mitmweb)
+## Where to find this API
 
-### Mitmdump
-mitmdump is the command-line companion to mitmproxy, providing tcpdump-like functionality for HTTP and HTTPS traffic. It can be used for scripted traffic manipulation and automated testing workflows.
-
-**Human URL:** [https://docs.mitmproxy.org/stable/overview-tools/#mitmdump](https://docs.mitmproxy.org/stable/overview-tools/#mitmdump)
-
-#### Tags:
-
- - Command Line, Scripting, Traffic Dump
-
-#### Properties
-
-- [Documentation](https://docs.mitmproxy.org/stable/overview-tools/#mitmdump)
-
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://mitmproxy.org)
 - [Documentation](https://docs.mitmproxy.org/stable/)
-- [GitHub](https://github.com/mitmproxy/mitmproxy)
 - [Blog](https://mitmproxy.org/posts/)
-- [Releases](https://github.com/mitmproxy/mitmproxy/releases)
-- [Issues](https://github.com/mitmproxy/mitmproxy/issues)
-- [License](https://github.com/mitmproxy/mitmproxy/blob/main/LICENSE)
-- [PyPI](https://pypi.org/project/mitmproxy/)
-- [Twitter](https://twitter.com/maboroshi_inc)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 14.6** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 62.5 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/mitmproxy/](https://apis.io/providers/mitmproxy/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Mitmproxy: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/mitmproxy/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
